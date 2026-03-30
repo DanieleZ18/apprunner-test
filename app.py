@@ -51,7 +51,7 @@ def hello():
     </head>
     <body>
         <div class="neon-box">
-            <h1>ZEFH GAY</h1>
+            <h1>Hello World</h1>
         </div>
     </body>
     </html>
